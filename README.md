@@ -1,4 +1,4 @@
-# ⚫️ LCM Markdown Cheat Sheet ⚫️
+# ⚫️⚫️⚫️ LCM Markdown Cheat Sheet ⚫️⚫️⚫️
 
 > [!IMPORTANT]
 > Check out the official documentation on [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn more about writing and formatting syntax. Additionally, you can read the latest updates and features on Markdown by visiting the [GitHub blog](https://github.blog/tag/markdown/).
